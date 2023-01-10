@@ -5,7 +5,7 @@ function CreateTodoButtom(props){
 
     //funcion que embuelve al alert para que no se ejecute solo (Encapsulamiento)
     const onClickButton = () =>{
-        alert('Aquí debería ir el modal');
+        props.setOpenModal(prevState => !prevState);
         };
 
     return(
