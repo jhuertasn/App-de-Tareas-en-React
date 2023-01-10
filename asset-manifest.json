@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/App-de-Tareas-en-React/static/css/main.19650c4a.css",
+    "main.js": "/App-de-Tareas-en-React/static/js/main.c44429f0.js",
+    "index.html": "/App-de-Tareas-en-React/index.html",
+    "main.19650c4a.css.map": "/App-de-Tareas-en-React/static/css/main.19650c4a.css.map",
+    "main.c44429f0.js.map": "/App-de-Tareas-en-React/static/js/main.c44429f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19650c4a.css",
+    "static/js/main.c44429f0.js"
+  ]
+}
